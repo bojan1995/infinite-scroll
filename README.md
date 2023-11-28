@@ -9,6 +9,10 @@ Features
 Getting Started
 Usage
 Contributing
+![Screenshot_1](https://github.com/bojan1995/infinite-scroll/assets/37152424/914b4bc2-2acb-408b-86fd-a47117809be2)
+![Screenshot_3](https://github.com/bojan1995/infinite-scroll/assets/37152424/7d4ac19c-4d12-4047-8f38-cddadde3a047)
+
+
 
 Features
 Infinite Scroll: Automatically loads more images as the user scrolls down.
